@@ -1,4 +1,4 @@
-# Debian44's Texturepack
+# Debian44's Texturepack 0.0.2
 The pack adds alternative Textures to Mineclone 2.
 
 What I added
@@ -11,4 +11,4 @@ HUD(Head-up-display)
 
 # License
 
-All files in the 'textures' folder:  CC-BY-SA 3.0
+All  folders: CC-BY-SA 3.0
